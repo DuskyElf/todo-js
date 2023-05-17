@@ -1,3 +1,3 @@
 # ToDo js
-A simple lightweight Web todo app with React js.
+## This Project was stopped, see - https://github.com/DuskyElf/todo-ts
 
